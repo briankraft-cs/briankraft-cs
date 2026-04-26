@@ -1,16 +1,17 @@
-## Hi there 👋
+# Brian Kraft — ChronoSage Corp
 
-<!--
-**briankraft-cs/briankraft-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI implementation consultant based in Baltimore, MD.
 
-Here are some ideas to get you started:
+I help small businesses in the DMV area implement AI systems
+built around how they actually work — not how a software company
+thinks they should work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I do:**
+- Knowledge capture and workflow automation for small businesses
+- Claude Code + Cowork implementation
+- AI system configuration and training
+
+**ChronoSage Corp**
+🌐 [chronosage.co](https://chronosage.co)
+📧 brian@chronosage.co
+📍 Baltimore
